@@ -1,0 +1,19 @@
+body {
+	background-color: #c0c0c0;
+}
+
+.box {
+	padding: 0%;
+}
+
+.loginbox {
+	margin-top: 10%;
+	padding: 1%;
+	background-color: #a5b5c4;
+	border-radius: 8px;
+}
+
+.loginheader {
+	color: #fff;
+	background-color: #0a1944;
+}

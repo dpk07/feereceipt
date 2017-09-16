@@ -1,0 +1,35 @@
+body {
+	background-color: #999;
+	padding: 1%;
+}
+
+.table-border td input[type=number] {
+	width: 100%;
+}
+
+.table-padding {
+	padding-left: 0px;
+	padding-right: 0px;
+	vertical-align: middle;
+}
+
+.table-border {
+	width: 100%;
+}
+
+.table-border td,th {
+	background-color: #fff;
+	border: 1px solid #000;
+	padding: 1%;
+}
+
+.full-border {
+	border-width: 0px 1px 1px 1px;
+	border-color: #000;
+	border-style: solid;
+	background-color: #fff;
+}
+
+.save-btn {
+	margin: 1%;
+}
